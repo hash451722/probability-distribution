@@ -1,0 +1,20 @@
+.line {
+    border-radius: 0.5rem;
+    border-width: thick;
+    border-style: solid;
+
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+#line0 {
+    border-color: #1a5fc5;
+    background-color: #7884ac;
+}
+#line1 {
+    border-color: #db820e;
+    background-color: #c9ba6a;
+}
+#line2 {
+    border-color: #058005;
+    background-color: #a8c79c;
+}
